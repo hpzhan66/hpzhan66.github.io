@@ -35,11 +35,11 @@ image enhancement, restoration, and learning-based computer vision.
 
 ## Education
 
-| Period | Degree | Field | Institution |
-| :-- | :-- | :-- | :-- |
-| 2020.09 – 2025.10 | Ph.D. | Robot Science and Engineering | Northeastern University |
-| 2017.09 – 2019.06 | M.S. | Electrical and Computer Engineering | University of Illinois Chicago |
-| 2014.09 – 2018.06 | B.Eng. | Automation | Northeastern University |
+| Period            | Degree | Field                               | Institution                    |
+| :---------------- | :----- | :---------------------------------- | :----------------------------- |
+| 2020.09 – 2025.10 | Ph.D.  | Robot Science and Engineering       | Northeastern University        |
+| 2017.09 – 2019.06 | M.S.   | Electrical and Computer Engineering | University of Illinois Chicago |
+| 2014.09 – 2018.06 | B.Eng. | Automation                          | Northeastern University        |
 
 ## Technical Skills
 
