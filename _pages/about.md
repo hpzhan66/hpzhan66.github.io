@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher in Underwater Robotics and Computer Vision.<br>College of Artificial Intelligence, Dalian Maritime University, China.
+subtitle: >-
+  Researcher in Underwater Robotics and Computer Vision.<br>College of
+  Artificial Intelligence, Dalian Maritime University, China.
 
 profile:
   align: right
@@ -20,7 +22,9 @@ latest_posts:
   enabled: false
 ---
 
-Hi, I’m Haopeng Zhang. My research focuses on robot perception and visual intelligence for complex aquatic environments, with an emphasis on underwater image enhancement, restoration, and learning-based computer vision.
+Hi, I’m Haopeng Zhang. My research focuses on robot perception and visual
+intelligence for complex aquatic environments, with an emphasis on underwater
+image enhancement, restoration, and learning-based computer vision.
 
 ## Research Interests
 
@@ -32,7 +36,7 @@ Hi, I’m Haopeng Zhang. My research focuses on robot perception and visual inte
 ## Education
 
 | Period | Degree | Field | Institution |
-|:--|:--|:--|:--|
+| :-- | :-- | :-- | :-- |
 | 2020.09 – 2025.10 | Ph.D. | Robot Science and Engineering | Northeastern University |
 | 2017.09 – 2019.06 | M.S. | Electrical and Computer Engineering | University of Illinois Chicago |
 | 2014.09 – 2018.06 | B.Eng. | Automation | Northeastern University |
@@ -52,7 +56,9 @@ Hi, I’m Haopeng Zhang. My research focuses on robot perception and visual inte
 
 ## Academic Service
 
-- Reviewer for IEEE JSTARS, EAAI, IEEE Journal of Oceanic Engineering, IEEE Transactions on Geoscience and Remote Sensing, Neurocomputing, and IEEE Transactions on Circuits and Systems for Video Technology
+- Reviewer for IEEE JSTARS, EAAI, IEEE Journal of Oceanic Engineering, IEEE
+  Transactions on Geoscience and Remote Sensing, Neurocomputing, and IEEE
+  Transactions on Circuits and Systems for Video Technology
 - Student Member, IEEE
 - Student Member, Chinese Automation Society
 - Student Member, Chinese Society of Image and Graphics

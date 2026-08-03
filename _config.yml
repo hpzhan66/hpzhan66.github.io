@@ -9,10 +9,15 @@ last_name: Zhang
 contact_note: >
   Please use the email link above for academic correspondence.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic homepage of Haopeng Zhang, researcher in underwater robotics and computer vision.
+  Academic homepage of Haopeng Zhang, researcher in underwater robotics and
+  computer vision.
 footer_text: >
   Academic homepage of Haopeng Zhang.
-keywords: [underwater robotics, computer vision, underwater image enhancement, robot perception]
+keywords:
+  - underwater robotics
+  - computer vision
+  - underwater image enhancement
+  - robot perception
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
