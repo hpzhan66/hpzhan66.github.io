@@ -2,19 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Haopeng Zhang 
+title: Haopeng Zhang
 first_name: Haopeng
 middle_name:
 last_name: Zhang
 contact_note: >
-  hp_zhang19[at]outlook[dot]com
+  Please use the email link above for academic correspondence.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal Page of Haopeng
+  Academic homepage of Haopeng Zhang, researcher in underwater robotics and computer vision.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: # add your own keywords or leave empty
+  Academic homepage of Haopeng Zhang.
+keywords: [underwater robotics, computer vision, underwater image enhancement, robot perception]
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -91,8 +89,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Haopeng Zhang
+blog_description: Academic notes and updates
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -199,7 +197,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -279,8 +276,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhang]
+  first_name: [Haopeng]
 
   style: apa
   locale: en

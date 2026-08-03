@@ -2,43 +2,57 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. College of Artificial Intelligence, Dalian Maritime University, China.
+subtitle: Researcher in Underwater Robotics and Computer Vision.<br>College of Artificial Intelligence, Dalian Maritime University, China.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Minxue Building 404</p>
-    <p>DLMU</p>
-    <p>Dalian, 116026</p>
+  alt: Haopeng Zhang
+  image_circular: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Hi there, I'm Haopeng Zhang 👋
+Hi, I’m Haopeng Zhang. My research focuses on robot perception and visual intelligence for complex aquatic environments, with an emphasis on underwater image enhancement, restoration, and learning-based computer vision.
 
-I am a Lecturer at the College of Artificial Intelligence at Dalian Maritime University. My work bridges the gap between perception and action in complex aquatic environments.
+## Research Interests
 
-🔬 Research Interests
-* **Marine Robotics:** Developing autonomous systems for challenging ocean environments.
-* **Underwater Imaging:** Enhancing visual perception and 3D reconstruction beneath the surface.
-* **Embodied AI:** Creating intelligent agents capable of interacting with the physical world.
+- Underwater robotics and autonomous marine systems
+- Computer vision for challenging aquatic environments
+- Underwater image enhancement and restoration
+- Robot perception and multi-robot coordination
 
-🎓 Academic Background
-* **Ph.D. in Robot Science and Engineering** - Northeastern University
-* **M.S. in Electrical and Computer Engineering** - University of Illinois, Chicago
-* **B.S. in Automation** - Northeastern University
+## Education
 
-Here is my [Chinese personal page](https://ai.dlmu.edu.cn/info/1701/4431.htm).
+| Period | Degree | Field | Institution |
+|:--|:--|:--|:--|
+| 2020.09 – 2025.10 | Ph.D. | Robot Science and Engineering | Northeastern University |
+| 2017.09 – 2019.06 | M.S. | Electrical and Computer Engineering | University of Illinois Chicago |
+| 2014.09 – 2018.06 | B.Eng. | Automation | Northeastern University |
+
+## Technical Skills
+
+- Python and PyTorch for deep learning and computer vision
+- MATLAB for algorithm simulation, data analysis, and visualization
+- Linux and ROS for robotic software development
+- C++ for underwater robot control systems and hardware-software integration
+- English academic communication and writing (CET-4, CET-6, and TOEFL)
+
+## Awards
+
+- Champion, AUV category, 2020 National Underwater Robot Competition
+- Second-Class Scholarships, Northeastern University, 2020–2024
+
+## Academic Service
+
+- Reviewer for IEEE JSTARS, EAAI, IEEE Journal of Oceanic Engineering, IEEE Transactions on Geoscience and Remote Sensing, Neurocomputing, and IEEE Transactions on Circuits and Systems for Video Technology
+- Student Member, IEEE
+- Student Member, Chinese Automation Society
+- Student Member, Chinese Society of Image and Graphics
